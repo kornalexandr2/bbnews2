@@ -1,0 +1,84 @@
+/**
+ * Framework7 Feeds 1.0.1
+ * Framework7 Feeds plugin brings easy RSS feeds integration into Framework7 app
+ * 
+ * http://www.idangero.us/framework7/plugins/
+ * 
+ * Copyright 2015, Vladimir Kharlampidi
+ * The iDangero.us
+ * http://www.idangero.us/
+ * 
+ * Licensed under MIT
+ * 
+ * Released on: August 22, 2015
+ */
+.feeds-page .content-block img {
+  max-width: 100% !important;
+  height: auto;  
+}
+.content-block-inner {
+	text-align:justify;
+	max-width: 100% !important;
+}	
+
+.external {
+	font-size:1.4em;
+}
+
+.item-content {
+	font-size:medium;
+	white-space:normal !important;
+	font-weight:bolder;
+	text-align:center;
+}
+.item-title {
+	white-space: normal !important;
+	text-align:justify;
+	font-size:small;
+	padding: 0px 5px;
+}
+.feed_title {
+	font-family: 'NeoSansProBold', arial;
+	text-shadow: 2px 2px 2px #aaa;
+	font-size:large;
+	width: 100%;
+	padding: 0.3em;
+	margin:0.1em;
+}
+.feed_description {
+	-moz-hyphens:auto;
+	-webkit-hyphens:auto;
+	-ms-hyphens:auto;
+	background-color: #e0eaff;
+	font-family: 'Raleway Regular', arial;
+}
+.item-title img {
+	display:block;
+	margin:5px auto 10px;
+    height: auto;
+    max-width: 480px;
+	padding: 10px auto;	
+	width: 100%;
+	align-content:center;
+}
+
+.feeds-item-link {
+	display:flex;
+	width:100% !important;
+}
+
+.NewsIn_title {
+	font-size:larger;
+	width:100%;	
+}
+.NewsDate {
+	font-size:small !important;
+	
+}
+
+.wp-caption {
+	max-width:100%;
+}
+.page-content {
+	padding-top:44px !important;
+}
